@@ -1,0 +1,15 @@
+.cover-first {
+  background-image: linear-gradient(
+      rgba(250, 250, 250, 0.8),
+      rgba(0, 0, 0, 0.8)
+    ),
+    url("/img/ManagementHero.jpg");
+  width: 100%;
+  min-height: 100vh;
+  position: relative;
+  background-position: center;
+  background-size: cover;
+}
+.b-example-divider {
+  height: 10vh;
+}
